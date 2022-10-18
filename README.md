@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ImShettyShroud
-- 👀 I’m interested in coding& mobile gaming.
-- 🌱 I’m currently learning 12th
 - 📫 How to reach me 
- Mail: imshettyshroud@protonmail.com 
+ Mail: i07S@proton.me 
 
 <!---
 ImShettyShroud/ImShettyShroud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
